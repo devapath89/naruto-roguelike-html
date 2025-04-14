@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Combat",
+        "description": "You face an enemy in the Valley of the End."
+    },
+    {
+        "type": "Elite",
+        "description": "An Elite J\u014dnin challenges your power."
+    },
+    {
+        "type": "Boss",
+        "description": "Madara faces Hashirama in the Final Battle."
+    },
+    {
+        "type": "Story",
+        "description": "A memory of the Uchiha Clan's founding."
+    }
+]
