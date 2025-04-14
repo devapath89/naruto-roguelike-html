@@ -1,17 +1,1 @@
-[
-    {
-        "name": "Fireball Jutsu",
-        "damage": 20,
-        "chakraCost": 10
-    },
-    {
-        "name": "Water Bullet",
-        "damage": 15,
-        "chakraCost": 8
-    },
-    {
-        "name": "Shadow Clone",
-        "damage": 10,
-        "chakraCost": 12
-    }
-]
+[{"name": "Fireball Jutsu", "damage": 20, "chakraCost": 10}]
