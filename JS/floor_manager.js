@@ -1,0 +1,1 @@
+// Tracks floors and bosses defeated
