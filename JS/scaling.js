@@ -1,1 +1,1 @@
-// Enemy scaling logic
+// scaling.js - Enemy scaling logic

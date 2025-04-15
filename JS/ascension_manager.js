@@ -1,1 +1,1 @@
-// Ascension management after Special Boss
+// ascension_manager.js - Ascension layer logic

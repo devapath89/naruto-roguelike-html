@@ -1,1 +1,1 @@
-// Applies memory tag after boss
+// memory_tag_flow.js - Manages tag interactions

@@ -1,1 +1,1 @@
-// Tracks floors and bosses defeated
+// floor_manager.js - Floor and map progression

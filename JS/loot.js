@@ -1,1 +1,1 @@
-// Loot and relic system
+// loot.js - Loot system placeholder

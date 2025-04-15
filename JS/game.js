@@ -1,1 +1,1 @@
-// Game state and main loop
+// game.js - Main game loop

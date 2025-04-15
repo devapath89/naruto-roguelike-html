@@ -1,1 +1,1 @@
-// MemoryTagsEnabled toggle
+// difficulty_manager.js - Adjusts difficulty dynamically

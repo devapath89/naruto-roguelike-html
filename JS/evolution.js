@@ -1,1 +1,1 @@
-// Ability evolution
+// evolution.js - Ability evolution placeholder

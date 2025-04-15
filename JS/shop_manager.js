@@ -1,1 +1,1 @@
-// Picks Regular Shop, Black Market, Six Paths
+// shop_manager.js - Shop system placeholder

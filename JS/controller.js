@@ -1,1 +1,1 @@
-// Handles player input
+// controller.js - Placeholder for game control logic

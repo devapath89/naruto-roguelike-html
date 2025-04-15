@@ -1,1 +1,1 @@
-// Boss phase changes
+// boss.js - Boss combat logic placeholder
